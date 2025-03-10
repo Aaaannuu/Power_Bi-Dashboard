@@ -24,4 +24,4 @@ To understand employee attrition, HR will use a Power BI dashboard. This will an
 - Strategic Recommendation: Formulate actionable retention strategies based on the identified attrition drivers.
   
 ## Dashboard
-[https://github.com/Aaaannuu/Power_Bi-Dashboard/blob/main/Hr_Analytics.pdf](https://github.com/Aaaannuu/Power_Bi-Dashboard/blob/main/HR_SS.png)
+![HR_SS.png](https://github.com/Aaaannuu/Power_Bi-Dashboard/blob/main/HR_SS.png)
